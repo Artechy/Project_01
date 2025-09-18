@@ -1,10 +1,3 @@
-"""
-main.py: first project for Engeto - Online Python Akademy
-
-author: Artjom Malyšev
-email: artommalysev@gmail.com
-"""
-
 TEXTS = [
     '''Situated about 10 miles west of Kemmerer,
     Fossil Butte is a ruggedly impressive
@@ -155,4 +148,5 @@ for sorted_keys in sorted(words_length):
     
     # printing the table
     print(f"{sorted_keys:<10} {stars:<20} {stars_count}")
+
 
