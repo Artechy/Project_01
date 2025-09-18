@@ -1,4 +1,4 @@
-First project for Engeto course - Online Python Akademy.
+First project (2 versions) for Engeto course - Online Python Akademy.
 
 Text Analyzer
 
@@ -26,3 +26,19 @@ Features
   - number of numeric strings and their total sum
 
 - Simple table showing word lengths and their frequency (visualized with stars *)
+
+
+Version 1 – Basic Solution
+
+The code is written in a simple way and some parts are longer than needed.
+Thats because I focused mainly on making sure the program works according to the assignment.
+
+File: main_basic.py
+
+
+Version 2 – Optimized Solution
+
+Later, I refactored the project into a more structured form and repeating code is reduced.
+The result is cleaner and easier to maintain.
+
+File: main_optimized.py
